@@ -34,7 +34,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
           schema:
             type: string
       security: []
@@ -49,10 +49,10 @@ paths:
           x-arrayCheckCount: false
           x-matchResponseSchema: true
           headers:
-            Access-Control-Allow-Credentials: 
-            Access-Control-Allow-Headers: 
-            Access-Control-Allow-Methods: 
-            Access-Control-Allow-Origin: 
+            Access-Control-Allow-Credentials: ''
+            Access-Control-Allow-Headers: ''
+            Access-Control-Allow-Methods: ''
+            Access-Control-Allow-Origin: ''
             Connection: keep-alive
             Content-Encoding: gzip
             Content-Length: 42
@@ -82,7 +82,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
           schema:
             type: string
       security:
@@ -98,10 +98,10 @@ paths:
           x-arrayCheckCount: false
           x-matchResponseSchema: true
           headers:
-            Access-Control-Allow-Credentials: 
-            Access-Control-Allow-Headers: 
-            Access-Control-Allow-Methods: 
-            Access-Control-Allow-Origin: 
+            Access-Control-Allow-Credentials: ''
+            Access-Control-Allow-Headers: ''
+            Access-Control-Allow-Methods: ''
+            Access-Control-Allow-Origin: ''
             Connection: keep-alive
             Content-Encoding: gzip
             Content-Length: 42
@@ -151,7 +151,7 @@ paths:
         type: string
       responses:
         200:
-          description: 
+          description: ''
           schema:
             type: string
       security: []
@@ -169,10 +169,10 @@ paths:
           x-arrayCheckCount: false
           x-matchResponseSchema: true
           headers:
-            Access-Control-Allow-Credentials: 
-            Access-Control-Allow-Headers: 
-            Access-Control-Allow-Methods: 
-            Access-Control-Allow-Origin: 
+            Access-Control-Allow-Credentials: ''
+            Access-Control-Allow-Headers: ''
+            Access-Control-Allow-Methods: ''
+            Access-Control-Allow-Origin: ''
             Connection: keep-alive
             Content-Encoding: gzip
             Content-Length: 95
@@ -218,7 +218,7 @@ paths:
         type: string
       responses:
         200:
-          description: 
+          description: ''
           schema:
             type: string
       security: []
@@ -236,10 +236,10 @@ paths:
           x-arrayCheckCount: false
           x-matchResponseSchema: true
           headers:
-            Access-Control-Allow-Credentials: 
-            Access-Control-Allow-Headers: 
-            Access-Control-Allow-Methods: 
-            Access-Control-Allow-Origin: 
+            Access-Control-Allow-Credentials: ''
+            Access-Control-Allow-Headers: ''
+            Access-Control-Allow-Methods: ''
+            Access-Control-Allow-Origin: ''
             Connection: keep-alive
             Content-Encoding: gzip
             Content-Type: application/json
@@ -278,7 +278,7 @@ paths:
         type: string
       responses:
         200:
-          description: 
+          description: ''
           schema:
             type: string
       security: []
@@ -293,10 +293,10 @@ paths:
           x-arrayCheckCount: false
           x-matchResponseSchema: true
           headers:
-            Access-Control-Allow-Credentials: 
-            Access-Control-Allow-Headers: 
-            Access-Control-Allow-Methods: 
-            Access-Control-Allow-Origin: 
+            Access-Control-Allow-Credentials: ''
+            Access-Control-Allow-Headers: ''
+            Access-Control-Allow-Methods: ''
+            Access-Control-Allow-Origin: ''
             Connection: keep-alive
             Content-Encoding: gzip
             Content-Length: 51
@@ -330,7 +330,7 @@ paths:
         type: string
       responses:
         200:
-          description: 
+          description: ''
           schema:
             type: string
       security: []
@@ -345,10 +345,10 @@ paths:
           x-arrayCheckCount: false
           x-matchResponseSchema: true
           headers:
-            Access-Control-Allow-Credentials: 
-            Access-Control-Allow-Headers: 
-            Access-Control-Allow-Methods: 
-            Access-Control-Allow-Origin: 
+            Access-Control-Allow-Credentials: ''
+            Access-Control-Allow-Headers: ''
+            Access-Control-Allow-Methods: ''
+            Access-Control-Allow-Origin: ''
             Connection: keep-alive
             Content-Encoding: gzip
             Content-Length: 46
@@ -378,7 +378,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
           schema:
             type: string
       security: []
@@ -393,10 +393,10 @@ paths:
           x-arrayCheckCount: false
           x-matchResponseSchema: true
           headers:
-            Access-Control-Allow-Credentials: 
-            Access-Control-Allow-Headers: 
-            Access-Control-Allow-Methods: 
-            Access-Control-Allow-Origin: 
+            Access-Control-Allow-Credentials: ''
+            Access-Control-Allow-Headers: ''
+            Access-Control-Allow-Methods: ''
+            Access-Control-Allow-Origin: ''
             Connection: keep-alive
             Content-Encoding: gzip
             Content-Length: 46
@@ -430,7 +430,7 @@ paths:
         type: string
       responses:
         200:
-          description: 
+          description: ''
           schema:
             type: string
       security: []
@@ -447,10 +447,10 @@ paths:
           x-arrayCheckCount: false
           x-matchResponseSchema: true
           headers:
-            Access-Control-Allow-Credentials: 
-            Access-Control-Allow-Headers: 
-            Access-Control-Allow-Methods: 
-            Access-Control-Allow-Origin: 
+            Access-Control-Allow-Credentials: ''
+            Access-Control-Allow-Headers: ''
+            Access-Control-Allow-Methods: ''
+            Access-Control-Allow-Origin: ''
             Connection: keep-alive
             Content-Encoding: gzip
             Content-Length: 342
@@ -488,7 +488,7 @@ paths:
         type: string
       responses:
         200:
-          description: 
+          description: ''
           schema:
             type: string
       security: []
@@ -503,10 +503,10 @@ paths:
           x-arrayCheckCount: false
           x-matchResponseSchema: true
           headers:
-            Access-Control-Allow-Credentials: 
-            Access-Control-Allow-Headers: 
-            Access-Control-Allow-Methods: 
-            Access-Control-Allow-Origin: 
+            Access-Control-Allow-Credentials: ''
+            Access-Control-Allow-Headers: ''
+            Access-Control-Allow-Methods: ''
+            Access-Control-Allow-Origin: ''
             Connection: keep-alive
             Content-Encoding: gzip
             Content-Length: 71
@@ -542,7 +542,7 @@ paths:
         format: int32
       responses:
         200:
-          description: 
+          description: ''
       security: []
       x-unitTests:
       - request:
@@ -575,7 +575,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
       security: []
       x-unitTests:
       - request:
@@ -608,7 +608,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
       security: []
       x-unitTests:
       - request:
@@ -641,7 +641,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
       security: []
       x-unitTests:
       - request:
@@ -674,7 +674,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
       security: []
       x-unitTests:
       - request:
@@ -707,7 +707,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
           schema:
             type: string
       security: []
@@ -722,10 +722,10 @@ paths:
           x-arrayCheckCount: false
           x-matchResponseSchema: true
           headers:
-            Access-Control-Allow-Credentials: 
-            Access-Control-Allow-Headers: 
-            Access-Control-Allow-Methods: 
-            Access-Control-Allow-Origin: 
+            Access-Control-Allow-Credentials: ''
+            Access-Control-Allow-Headers: ''
+            Access-Control-Allow-Methods: ''
+            Access-Control-Allow-Origin: ''
             Connection: keep-alive
             Content-Length: 14
             Content-Type: application/json; charset=utf-8
@@ -755,7 +755,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
       security: []
       x-unitTests:
       - request:
@@ -788,7 +788,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
           schema:
             type: string
       security: []
@@ -803,10 +803,10 @@ paths:
           x-arrayCheckCount: false
           x-matchResponseSchema: true
           headers:
-            Access-Control-Allow-Credentials: 
-            Access-Control-Allow-Headers: 
-            Access-Control-Allow-Methods: 
-            Access-Control-Allow-Origin: 
+            Access-Control-Allow-Credentials: ''
+            Access-Control-Allow-Headers: ''
+            Access-Control-Allow-Methods: ''
+            Access-Control-Allow-Origin: ''
             Connection: keep-alive
             Content-Length: 13
             Content-Type: application/json; charset=utf-8
@@ -836,7 +836,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
       security: []
       x-unitTests:
       - request:
@@ -869,7 +869,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
       security: []
       x-unitTests:
       - request:
@@ -902,7 +902,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: 
+          description: ''
       security: []
       x-unitTests:
       - request:
