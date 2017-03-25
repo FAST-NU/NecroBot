@@ -154,7 +154,8 @@ paths:
           description: ''
           schema:
             type: object
-      security: []
+      security:
+      - auth: []
       x-unitTests:
       - request:
           method: GET
