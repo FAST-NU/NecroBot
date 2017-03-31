@@ -26,6 +26,7 @@ paths:
   /digest-auth:
     get:
       description: 'TODO: Add Description'
+      summary: DigestAuth Success
       tags:
       - 'Auth: Digest'
       operationId: DigestAuth Success
@@ -81,6 +82,7 @@ paths:
   /basic-auth:
     get:
       description: 'TODO: Add Description'
+      summary: Basic Auth
       tags:
       - 'Auth: Others'
       operationId: Basic Auth
@@ -137,6 +139,7 @@ paths:
   /oauth1:
     get:
       description: 'TODO: Add Description'
+      summary: OAuth1.0 Verify Signature
       tags:
       - 'Auth: Others'
       operationId: OAuth1.0 Verify Signature
@@ -193,6 +196,7 @@ paths:
   /auth/hawk:
     get:
       description: 'TODO: Add Description'
+      summary: Hawk Auth
       tags:
       - 'Auth: Others'
       operationId: Hawk Auth
@@ -249,6 +253,7 @@ paths:
   /cookies/set:
     get:
       description: 'TODO: Add Description'
+      summary: Set Cookies
       tags:
       - Cookies
       operationId: Set Cookies
@@ -307,6 +312,7 @@ paths:
   /cookies/delete:
     get:
       description: 'TODO: Add Description'
+      summary: Delete Cookies
       tags:
       - Cookies
       operationId: Delete Cookies
@@ -333,6 +339,7 @@ paths:
   /cookies:
     get:
       description: 'TODO: Add Description'
+      summary: Get Cookies
       tags:
       - Cookies
       operationId: Get Cookies
@@ -381,6 +388,7 @@ paths:
   /headers:
     get:
       description: 'TODO: Add Description'
+      summary: Request Headers
       tags:
       - Headers
       operationId: Request Headers
@@ -436,6 +444,7 @@ paths:
   /response-headers:
     get:
       description: 'TODO: Add Description'
+      summary: Response Headers
       tags:
       - Headers
       operationId: Response Headers
@@ -495,6 +504,7 @@ paths:
   /get:
     get:
       description: 'TODO: Add Description'
+      summary: GET Request
       tags:
       - Request Methods
       operationId: GET Request
@@ -534,6 +544,7 @@ paths:
   /post:
     post:
       description: 'TODO: Add Description'
+      summary: POST Request
       tags:
       - Request Methods
       operationId: POST Request
@@ -574,6 +585,7 @@ paths:
   /put:
     put:
       description: 'TODO: Add Description'
+      summary: PUT Request
       tags:
       - Request Methods
       operationId: PUT Request
@@ -607,6 +619,7 @@ paths:
   /patch:
     patch:
       description: 'TODO: Add Description'
+      summary: PATCH Request
       tags:
       - Request Methods
       operationId: PATCH Request
@@ -640,6 +653,7 @@ paths:
   /delete:
     delete:
       description: 'TODO: Add Description'
+      summary: DELETE Request
       tags:
       - Request Methods
       operationId: DELETE Request
@@ -673,6 +687,7 @@ paths:
   /status/200:
     get:
       description: 'TODO: Add Description'
+      summary: Response Status Code
       tags:
       - Utilities
       operationId: Response Status Code
@@ -721,6 +736,7 @@ paths:
   /stream/10:
     get:
       description: 'TODO: Add Description'
+      summary: Streamed Response
       tags:
       - Utilities
       operationId: Streamed Response
@@ -754,6 +770,7 @@ paths:
   /delay/3:
     get:
       description: 'TODO: Add Description'
+      summary: Delay Response
       tags:
       - Utilities
       operationId: Delay Response
@@ -802,6 +819,7 @@ paths:
   /encoding/utf8:
     get:
       description: 'TODO: Add Description'
+      summary: Get UTF8 Encoded Response
       tags:
       - Utilities
       operationId: Get UTF8 Encoded Response
@@ -835,6 +853,7 @@ paths:
   /gzip:
     get:
       description: 'TODO: Add Description'
+      summary: GZip Compressed Response
       tags:
       - Utilities
       operationId: GZip Compressed Response
@@ -868,6 +887,7 @@ paths:
   /deflate:
     get:
       description: 'TODO: Add Description'
+      summary: Deflate Compressed Response
       tags:
       - Utilities
       operationId: Deflate Compressed Response
